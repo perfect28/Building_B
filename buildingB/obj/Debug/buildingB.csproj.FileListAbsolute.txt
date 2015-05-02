@@ -1,0 +1,18 @@
+c:\users\sony\documents\visual studio 2013\Projects\buildingB\buildingB\bin\Debug\buildingB.exe.config
+C:\Users\sony\documents\visual studio 2013\Projects\buildingB\buildingB\bin\Debug\buildingB.exe
+C:\Users\sony\documents\visual studio 2013\Projects\buildingB\buildingB\bin\Debug\buildingB.pdb
+C:\Users\sony\documents\visual studio 2013\Projects\buildingB\buildingB\obj\Debug\buildingB.csprojResolveAssemblyReference.cache
+C:\Users\sony\documents\visual studio 2013\Projects\buildingB\buildingB\obj\Debug\buildingB.Form1.resources
+C:\Users\sony\documents\visual studio 2013\Projects\buildingB\buildingB\obj\Debug\buildingB.Properties.Resources.resources
+C:\Users\sony\documents\visual studio 2013\Projects\buildingB\buildingB\obj\Debug\buildingB.csproj.GenerateResource.Cache
+C:\Users\sony\documents\visual studio 2013\Projects\buildingB\buildingB\obj\Debug\buildingB.exe
+C:\Users\sony\documents\visual studio 2013\Projects\buildingB\buildingB\obj\Debug\buildingB.pdb
+C:\Users\sony\Desktop\buildingB\buildingB\bin\Debug\buildingB.exe.config
+C:\Users\sony\Desktop\buildingB\buildingB\obj\Debug\buildingB.exe
+C:\Users\sony\Desktop\buildingB\buildingB\obj\Debug\buildingB.pdb
+C:\Users\sony\Desktop\buildingB\buildingB\bin\Debug\buildingB.exe
+C:\Users\sony\Desktop\buildingB\buildingB\bin\Debug\buildingB.pdb
+C:\Users\sony\Desktop\buildingB\buildingB\obj\Debug\buildingB.csprojResolveAssemblyReference.cache
+C:\Users\sony\Desktop\buildingB\buildingB\obj\Debug\buildingB.Form1.resources
+C:\Users\sony\Desktop\buildingB\buildingB\obj\Debug\buildingB.Properties.Resources.resources
+C:\Users\sony\Desktop\buildingB\buildingB\obj\Debug\buildingB.csproj.GenerateResource.Cache
